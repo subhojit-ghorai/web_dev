@@ -1,0 +1,23 @@
+{
+  "name": "web_dev",
+  "version": "1.0.0",
+  "description": "learning node and web dev",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhojit-ghorai/web_dev.git"
+  },
+  "author": "Subhojit Ghorai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhojit-ghorai/web_dev/issues"
+  },
+  "homepage": "https://github.com/subhojit-ghorai/web_dev#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
